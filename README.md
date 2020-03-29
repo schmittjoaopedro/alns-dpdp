@@ -1,6 +1,6 @@
 # Adaptive Large Neighborhood Search for Dynamic Pick-up and Delivery Problem
 
-An proposal of Adaptive Large Neighborhood Search Algorithm for the Pickup and Delivery Problem with Time Windows and Dynamic Requests (DPDPTW). 
+A proposal of Adaptive Large Neighborhood Search Algorithm for the Pickup and Delivery Problem with Time Windows and Dynamic Requests (DPDPTW). 
 
 ## Overview
 
